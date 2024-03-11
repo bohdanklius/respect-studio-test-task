@@ -1,19 +1,15 @@
-# dops
+# Respect.Studio test task
 
-## Project setup
-```
-npm install
-```
+You can check this page here:
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+ - [DEMO LINK](https://bohdanklius.github.io/respect-studio-test-task/)
 
-### Compiles and minifies for production
-```
-npm run build
-```
+## Description
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+Made this page using Vue.js, created using the GSAP library for animations.
+
+### Installing
+
+- Fork and clone this repository
+- Run npm install in your terminal
+- Run npm run serve to start a local server
